@@ -1,0 +1,347 @@
+{
+  "services": [
+    {
+      "service_code": "REV-101",
+      "service_name": "Community Certificate",
+      "department": "Revenue",
+      "documents_required": [
+        "Photo",
+        "Address Proof",
+        "Community Certificate of Father or Community Certificate of Mother or Community Certificate of Siblings",
+        "Self Declaration of Applicant"
+      ],
+      "application_method": [
+        "e-Sevai Centre"
+      ],
+      "service_charge": "₹60",
+      "user_manual_link": "https://tnesevai.tn.gov.in/Pages/UserManual.aspx",
+      "official_source": [
+        "https://tnesevai.tn.gov.in/Pages/EsevaiServiceList.aspx",
+        "https://www.tnesevai.tn.gov.in/citizen/Pages/FAQ.aspx"
+      ]
+    },
+    {
+      "service_code": "REV-103",
+      "service_name": "Income Certificate",
+      "department": "Revenue",
+      "documents_required": [
+        "Not specified in the official sources reviewed"
+      ],
+      "application_method": [
+        "e-Sevai Centre"
+      ],
+      "service_charge": "₹60",
+      "user_manual_link": "https://tnesevai.tn.gov.in/Pages/UserManual.aspx",
+      "official_source": [
+        "https://tnesevai.tn.gov.in/Pages/EsevaiServiceList.aspx"
+      ]
+    },
+    {
+      "service_code": "REV-104",
+      "service_name": "First Graduate Certificate",
+      "department": "Revenue",
+      "documents_required": [
+        "Not specified in the official sources reviewed"
+      ],
+      "application_method": [
+        "e-Sevai Centre"
+      ],
+      "service_charge": "₹60",
+      "user_manual_link": "https://tnesevai.tn.gov.in/Pages/UserManual.aspx",
+      "official_source": [
+        "https://tnesevai.tn.gov.in/Pages/EsevaiServiceList.aspx",
+        "https://www.tnesevai.tn.gov.in/Pages/UserManual.aspx"
+      ]
+    },
+    {
+      "service_code": "REV-109",
+      "service_name": "Widow Certificate",
+      "department": "Revenue",
+      "documents_required": [
+        "Photo",
+        "Address Proof",
+        "Death Certificate of Husband",
+        "Marriage Registration certificate or any other documents to prove marriage",
+        "Self Declaration of Applicant"
+      ],
+      "application_method": [
+        "e-Sevai Centre"
+      ],
+      "service_charge": "₹60",
+      "user_manual_link": "https://tnesevai.tn.gov.in/Pages/UserManual.aspx",
+      "official_source": [
+        "https://tnesevai.tn.gov.in/Pages/EsevaiServiceList.aspx",
+        "https://www.tnesevai.tn.gov.in/citizen/Pages/FAQ.aspx"
+      ]
+    },
+    {
+      "service_code": "REV-115",
+      "service_name": "Other Backward Class (OBC) Certificate",
+      "department": "Revenue",
+      "documents_required": [
+        "Photo",
+        "Proof of Marriage",
+        "Proof of Residence",
+        "Proof of Desertion or FIR Details",
+        "Self Declaration of Applicant"
+      ],
+      "application_method": [
+        "e-Sevai Centre"
+      ],
+      "service_charge": "₹60",
+      "user_manual_link": "https://tnesevai.tn.gov.in/Pages/UserManual.aspx",
+      "official_source": [
+        "https://tnesevai.tn.gov.in/Pages/EsevaiServiceList.aspx",
+        "https://www.tnesevai.tn.gov.in/citizen/Pages/FAQ.aspx"
+      ]
+    },
+    {
+      "service_code": "REV-116",
+      "service_name": "Residence Certificate",
+      "department": "Revenue",
+      "documents_required": [
+        "Not specified in the official sources reviewed"
+      ],
+      "application_method": [
+        "e-Sevai Centre"
+      ],
+      "service_charge": "₹60",
+      "user_manual_link": "https://tnesevai.tn.gov.in/Pages/UserManual.aspx",
+      "official_source": [
+        "https://tnesevai.tn.gov.in/Pages/EsevaiServiceList.aspx",
+        "https://www.tnesevai.tn.gov.in/Pages/UserManual.aspx"
+      ]
+    },
+    {
+      "service_code": "REV-201",
+      "service_name": "Indira Gandhi National Old Age Pension Scheme (IGNOPS)",
+      "department": "Revenue",
+      "documents_required": [
+        "Not specified in the official sources reviewed"
+      ],
+      "application_method": [
+        "e-Sevai Centre"
+      ],
+      "service_charge": "₹10",
+      "user_manual_link": "https://tnesevai.tn.gov.in/Pages/UserManual.aspx",
+      "official_source": [
+        "https://tnesevai.tn.gov.in/Pages/EsevaiServiceList.aspx"
+      ]
+    },
+    {
+      "service_code": "REV-206",
+      "service_name": "Differently Abled Pension Scheme(DAPS)",
+      "department": "Revenue",
+      "documents_required": [
+        "Not specified in the official sources reviewed"
+      ],
+      "application_method": [
+        "e-Sevai Centre"
+      ],
+      "service_charge": "₹10",
+      "user_manual_link": "https://tnesevai.tn.gov.in/Pages/UserManual.aspx",
+      "official_source": [
+        "https://tnesevai.tn.gov.in/Pages/EsevaiServiceList.aspx"
+      ]
+    },
+    {
+      "service_code": "TEB-601",
+      "service_name": "Electricity Bill Payment",
+      "department": "TANGEDCO",
+      "documents_required": [
+        "Not specified in the official sources reviewed"
+      ],
+      "application_method": [
+        "e-Sevai Centre"
+      ],
+      "service_charge": "₹15 up to ₹1,000; ₹25 for ₹1,001–₹3,000; ₹40 for ₹3,001–₹5,000; ₹50 for ₹5,001–₹10,000; ₹60 for ₹10,001 and above",
+      "user_manual_link": "https://tnesevai.tn.gov.in/Pages/UserManual.aspx",
+      "official_source": [
+        "https://tnesevai.tn.gov.in/Pages/EsevaiServiceList.aspx"
+      ]
+    },
+    {
+      "service_code": "CSC-024",
+      "service_name": "PDS Aadhaar Enrollment",
+      "department": "TNEGA",
+      "documents_required": [
+        "Not specified in the official sources reviewed"
+      ],
+      "application_method": [
+        "e-Sevai Centre"
+      ],
+      "service_charge": "₹15",
+      "user_manual_link": "https://tnesevai.tn.gov.in/Pages/UserManual.aspx",
+      "official_source": [
+        "https://tnesevai.tn.gov.in/Pages/EsevaiServiceList.aspx"
+      ]
+    },
+    {
+      "service_code": "PDS-501",
+      "service_name": "Apply for New Card",
+      "department": "Civil Supplies and Consumer Protection",
+      "documents_required": [
+        "Not specified in the official sources reviewed"
+      ],
+      "application_method": [
+        "e-Sevai Centre"
+      ],
+      "service_charge": "₹60",
+      "user_manual_link": "https://tnesevai.tn.gov.in/Pages/UserManual.aspx",
+      "official_source": [
+        "https://tnesevai.tn.gov.in/Pages/EsevaiServiceList.aspx"
+      ]
+    },
+    {
+      "service_code": "PDS-502",
+      "service_name": "Card Mutation",
+      "department": "Civil Supplies and Consumer Protection",
+      "documents_required": [
+        "Not specified in the official sources reviewed"
+      ],
+      "application_method": [
+        "e-Sevai Centre"
+      ],
+      "service_charge": "₹60",
+      "user_manual_link": "https://tnesevai.tn.gov.in/Pages/UserManual.aspx",
+      "official_source": [
+        "https://tnesevai.tn.gov.in/Pages/EsevaiServiceList.aspx"
+      ]
+    },
+    {
+      "service_code": "PDS-504",
+      "service_name": "Printing of Smart Card",
+      "department": "Civil Supplies and Consumer Protection",
+      "documents_required": [
+        "Not specified in the official sources reviewed"
+      ],
+      "application_method": [
+        "e-Sevai Centre"
+      ],
+      "service_charge": "₹60",
+      "user_manual_link": "https://tnesevai.tn.gov.in/Pages/UserManual.aspx",
+      "official_source": [
+        "https://tnesevai.tn.gov.in/Pages/EsevaiServiceList.aspx"
+      ]
+    },
+    {
+      "service_code": "DPH-101",
+      "service_name": "CRS-Death Registration",
+      "department": "Directorate of Public Health",
+      "documents_required": [
+        "Not specified in the official sources reviewed"
+      ],
+      "application_method": [
+        "e-Sevai Centre"
+      ],
+      "service_charge": "₹100",
+      "user_manual_link": "https://tnesevai.tn.gov.in/Pages/UserManual.aspx",
+      "official_source": [
+        "https://tnesevai.tn.gov.in/Pages/EsevaiServiceList.aspx",
+        "https://www.tnesevai.tn.gov.in/Pages/UserManual.aspx"
+      ]
+    },
+    {
+      "service_code": "DPH-102",
+      "service_name": "Printing of Birth Certificate",
+      "department": "Directorate of Public Health",
+      "documents_required": [
+        "Not specified in the official sources reviewed"
+      ],
+      "application_method": [
+        "e-Sevai Centre"
+      ],
+      "service_charge": "₹100",
+      "user_manual_link": "https://tnesevai.tn.gov.in/Pages/UserManual.aspx",
+      "official_source": [
+        "https://tnesevai.tn.gov.in/Pages/EsevaiServiceList.aspx",
+        "https://www.tnesevai.tn.gov.in/Pages/UserManual.aspx"
+      ]
+    },
+    {
+      "service_code": "DPH-103",
+      "service_name": "Printing of Death Certificate",
+      "department": "Directorate of Public Health",
+      "documents_required": [
+        "Not specified in the official sources reviewed"
+      ],
+      "application_method": [
+        "e-Sevai Centre"
+      ],
+      "service_charge": "₹100",
+      "user_manual_link": "https://tnesevai.tn.gov.in/Pages/UserManual.aspx",
+      "official_source": [
+        "https://tnesevai.tn.gov.in/Pages/EsevaiServiceList.aspx",
+        "https://www.tnesevai.tn.gov.in/Pages/UserManual.aspx"
+      ]
+    },
+    {
+      "service_code": "EMP-502",
+      "service_name": "Printing of registration ID",
+      "department": "Employment Training",
+      "documents_required": [
+        "Not specified in the official sources reviewed"
+      ],
+      "application_method": [
+        "e-Sevai Centre"
+      ],
+      "service_charge": "₹15",
+      "user_manual_link": "https://tnesevai.tn.gov.in/Pages/UserManual.aspx",
+      "official_source": [
+        "https://tnesevai.tn.gov.in/Pages/EsevaiServiceList.aspx",
+        "https://www.tnesevai.tn.gov.in/Pages/UserManual.aspx"
+      ]
+    },
+    {
+      "service_code": "EMP-504",
+      "service_name": "Application for Renewal",
+      "department": "Employment Training",
+      "documents_required": [
+        "Not specified in the official sources reviewed"
+      ],
+      "application_method": [
+        "e-Sevai Centre"
+      ],
+      "service_charge": "₹15",
+      "user_manual_link": "https://tnesevai.tn.gov.in/Pages/UserManual.aspx",
+      "official_source": [
+        "https://tnesevai.tn.gov.in/Pages/EsevaiServiceList.aspx",
+        "https://www.tnesevai.tn.gov.in/Pages/UserManual.aspx"
+      ]
+    },
+    {
+      "service_code": "EMP-501",
+      "service_name": "Application for profile updation",
+      "department": "Employment Training",
+      "documents_required": [
+        "Not specified in the official sources reviewed"
+      ],
+      "application_method": [
+        "e-Sevai Centre"
+      ],
+      "service_charge": "₹10",
+      "user_manual_link": "https://tnesevai.tn.gov.in/Pages/UserManual.aspx",
+      "official_source": [
+        "https://tnesevai.tn.gov.in/Pages/EsevaiServiceList.aspx",
+        "https://www.tnesevai.tn.gov.in/Pages/UserManual.aspx"
+      ]
+    },
+    {
+      "service_code": "EMP-503",
+      "service_name": "Application for Registration",
+      "department": "Employment Training",
+      "documents_required": [
+        "Not specified in the official sources reviewed"
+      ],
+      "application_method": [
+        "e-Sevai Centre"
+      ],
+      "service_charge": "₹10",
+      "user_manual_link": "https://tnesevai.tn.gov.in/Pages/UserManual.aspx",
+      "official_source": [
+        "https://tnesevai.tn.gov.in/Pages/EsevaiServiceList.aspx",
+        "https://www.tnesevai.tn.gov.in/Pages/UserManual.aspx"
+      ]
+    }
+  ]
+}

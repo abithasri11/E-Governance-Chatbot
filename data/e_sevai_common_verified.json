@@ -1,0 +1,42 @@
+{
+  "common_e_sevai": {
+    "CAN": {
+      "what_is_CAN": "CAN is Citizen Access Number required to avail all e-Sevai services offered by various departments through TNeGA.",
+      "how_to_create_CAN": "The official FAQ states that CAN is required for e-Sevai services and the official e-Sevai portal provides CAN registration/access.",
+      "CAN_validity": "CAN is valid for lifetime.",
+      "forgotten_CAN": "Search using Mobile number, date of Birth, Name, or Email id.",
+      "official_source": "https://www.tnesevai.tn.gov.in/citizen/Pages/FAQ.aspx"
+    },
+    "login_registration": {
+      "registration": "Register as a New User in the e-Sevai Citizen Portal.",
+      "login": "Use the registered login credentials in Citizen Login.",
+      "required_details": [
+        "Full Name",
+        "District",
+        "Taluk",
+        "Mobile Number",
+        "Email Id",
+        "Aadhar No",
+        "Login Id",
+        "Password",
+        "Confirm Password",
+        "Captcha"
+      ],
+      "official_source": "https://tnesevai.tn.gov.in/Citizen/Registration.aspx"
+    },
+    "application_status": {
+      "how_to_check_status": "After logging in, go to the Check Status tab and enter the application number.",
+      "required_information": "Application number",
+      "official_source": "https://www.tnesevai.tn.gov.in/citizen/Pages/FAQ.aspx"
+    },
+    "grievances_complaints": {
+      "how_to_submit": "Use the official e-Sevai Grievances/Complaints page.",
+      "official_source": "https://www.tnesevai.tn.gov.in/citizen/Pages/Complaints.aspx"
+    },
+    "helpdesk": {
+      "email": "tnesevaihelpdesk@tn.gov.in",
+      "phone": "18004256000",
+      "official_source": "https://www.tnesevai.tn.gov.in/citizen/"
+    }
+  }
+}
